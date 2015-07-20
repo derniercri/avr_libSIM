@@ -2,6 +2,6 @@
 
 ## serie.h
 
-fournit des fonction permetant de communiquer par un port serie
+fournit des fonctions permetant de communiquer par un port serie
 
 Work in progress ...
